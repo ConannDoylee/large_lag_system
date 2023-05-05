@@ -1,0 +1,2 @@
+1. Quick start: python simulation.py
+2. Params setting: conf/smith_compensator.yaml:is_open controls smith_compensator using or not

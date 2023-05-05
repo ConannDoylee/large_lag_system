@@ -1,0 +1,4 @@
+T_delay: 0.5
+T_step: 0.001
+init_input: 0
+init_output: 0

@@ -1,0 +1,7 @@
+k: 1
+tau: 0.3
+N: 10
+init_value: 0
+T_step: 0.001
+init_input: 0
+init_output: 0

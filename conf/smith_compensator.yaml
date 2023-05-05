@@ -1,0 +1,8 @@
+T_step: 0.01
+tau: 0.3
+T_delay: 0.5
+N: 1
+k: 1
+init_input: 0
+init_output: 0
+is_open: true
